@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Gideon 👋
 
-<!--
-**its-dion/its-dion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product-focused software engineer building
+web and AI-powered applications.
 
-Here are some ideas to get you started:
+- 🚀 Strong bias for shipping and iteration
+- 🧠 Interested in AI, automation, and knowledge tools
+- 🛠 Comfortable across frontend, backend, and deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+- JavaScript / TypeScript
+- React, Next.js
+- Node.js, Python
+- PostgreSQL
+- OpenAI APIs
+
